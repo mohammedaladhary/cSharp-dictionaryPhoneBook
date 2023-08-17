@@ -1,0 +1,15 @@
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/bin/Debug/net7.0/phoneBookConsoleApp
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/bin/Debug/net7.0/phoneBookConsoleApp.deps.json
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/bin/Debug/net7.0/phoneBookConsoleApp.runtimeconfig.json
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/bin/Debug/net7.0/phoneBookConsoleApp.dll
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/bin/Debug/net7.0/phoneBookConsoleApp.pdb
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/obj/Debug/net7.0/phoneBookConsoleApp.csproj.AssemblyReference.cache
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/obj/Debug/net7.0/phoneBookConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/obj/Debug/net7.0/phoneBookConsoleApp.AssemblyInfoInputs.cache
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/obj/Debug/net7.0/phoneBookConsoleApp.AssemblyInfo.cs
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/obj/Debug/net7.0/phoneBookConsoleApp.csproj.CoreCompileInputs.cache
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/obj/Debug/net7.0/phoneBookConsoleApp.dll
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/obj/Debug/net7.0/refint/phoneBookConsoleApp.dll
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/obj/Debug/net7.0/phoneBookConsoleApp.pdb
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/obj/Debug/net7.0/phoneBookConsoleApp.genruntimeconfig.cache
+/Users/mohammedaladhary/Projects/phoneBookConsoleApp/obj/Debug/net7.0/ref/phoneBookConsoleApp.dll
